@@ -12,39 +12,40 @@
   },
    
     
-    "content": {
+    "content": {         
+        
         "page1": {
-          "title": "Trailer",
+          "title": "Let's get started",
           "url": "https://abdersl.github.io/PS5-2024/rep01.htm",
           "img": "https://abdersl.github.io/PS5-2024/iiccoon.png"
         },
         "page2": {
-          "title": "PS5  name as evidence",
+          "title": "For PS4 users",
           "url": "https://abdersl.github.io/PS5-2024/rep02.htm",
           "img": "https://abdersl.github.io/PS5-2024/iiccoon.png"
         },
         "page3": {
-          "title": "Data sheet",
+          "title": "What's on the screen",
            "url": "https://abdersl.github.io/PS5-2024/rep03.htm",
           "img": "https://abdersl.github.io/PS5-2024/iiccoon.png"
         },
         "page4": {
-          "title": "What release date for PS5",
+          "title": "Let's play",
           "url": "https://abdersl.github.io/PS5-2024/rep04.htm",
           "img": "https://abdersl.github.io/PS5-2024/iiccoon.png"
         },
         "page5": {
-          "title": "The design of the PS5",
+          "title": "Use your controller",
           "url": "https://abdersl.github.io/PS5-2024/rep05.htm",
           "img": "https://abdersl.github.io/PS5-2024/iiccoon.png"
         },
         "page6": {
-          "title": "A brand new controller",
+          "title": "Shutting down",
           "url": "https://abdersl.github.io/PS5-2024/rep06.htm",
           "img": "https://abdersl.github.io/PS5-2024/iiccoon.png"
         },
         "page7": {
-          "title": "Price Of PS5",
+          "title": "Further information",
           "url": "https://abdersl.github.io/PS5-2024/rep07.htm",
           "img": "https://abdersl.github.io/PS5-2024/iiccoon.png"
             
