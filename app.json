@@ -16,7 +16,7 @@
         
         "page1": {
           "title": "Let's get started",
-          "url": "https://itl.rtsp.me/2bSD3g32IbfKIihfr6FfVw/1700171185/hls/st5E62e9.m3u8",
+          "url": "https://abdersl.github.io/PS5-2024/rep02.htm",
           "img": "https://abdersl.github.io/PS5-2024/iiccoon.png"
         },
         "page2": {
@@ -55,7 +55,12 @@
           "url": "https://abdersl.github.io/PS5/Good.htm",
           "img": "https://www.freepngimg.com/thumb/star/8-yellow-star-png-image-thumb.png"
 
-        }
+         },
+        "page9": {
+          "title": "Good Luck!",
+          "url": "https://abdersl.github.io/PS5-2024/testaflam.htm",
+          "img": "https://www.freepngimg.com/thumb/star/8-yellow-star-png-image-thumb.png"
+
 
         }
       }
