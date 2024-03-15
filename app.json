@@ -6,7 +6,7 @@
         
     "ads":{
      "ads_type": "ADMOB",
-      "bannerId": "ca-app-pub-1636943929816716/4153579414",
+      "bannerId": "",
       "interstitialId": "",
      "ironsource_id": ""
   },
